@@ -244,4 +244,4 @@ This repository serves as the official landing page for Dragon POW!. The softwar
 **Get the most recent version of Dragon POW! today!**
 
 ---
-**Last updated:** 2026-09-12 14:33:57 UTC
+**Last updated:** 2026-09-12 17:30:39 UTC
